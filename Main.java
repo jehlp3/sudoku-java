@@ -160,7 +160,7 @@ public class Main {
             return;
         }
 
-        System.out.println("Tem certeza que deseja limpar seu jogo e perder o progresso?");
+        System.out.println("Tem certeza que deseja limpar seu jogo e perder o progresso?(sim / não)");
         var confirm = sc.next();
         while(!confirm.equalsIgnoreCase("sim") && !confirm.equalsIgnoreCase("não")) {
             System.out.println("Informe 'sim' ou 'não'");
