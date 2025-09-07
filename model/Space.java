@@ -26,7 +26,7 @@ public class Space {
 
     public void  clearSpace() {
         setActual(null);
-    };
+    }
 
     public int getExpected() {
         return expected;
