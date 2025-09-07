@@ -2,7 +2,7 @@
 
 ## Requisitos
     Deve-se ter um menu interativo onde poderemos escolher entre as seguintes opções:
-        1. Iniciar um novo o jogo: Deve-se exibir na tela o jogo inicial, com os espaços preenchidos somente pelos números iniciais (usar os args do método main para informar os números iniciais e suas devidas posiçõers);
+        1. Iniciar um novo o jogo: Deve-se exibir na tela o jogo inicial, com os espaços preenchidos somente pelos números iniciais (usar os args do método main para informar os números iniciais e suas devidas posições);
 
         2. Colocar um novo número: Deve-se solicitar as seguintes informações do jogador (número a ser colocado, indice horizontal e indice vertical do número), não se deve permitir que seja colocado um número em uma posição que já esteja preenchida ( seja número fixo ou informado pelo jogador);
 
@@ -30,3 +30,6 @@
 IDE IntelliJ </br>
 Nos 3 pontinhos ao lado do run. Selecione Configuration>Edit.
 Adicione em 'Program Arguments'
+
+### Imagens do jogo
+![jogo](images/img.png)
